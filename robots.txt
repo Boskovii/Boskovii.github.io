@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Boskovii.github.io//sitemap.xml
